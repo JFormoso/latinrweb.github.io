@@ -82,7 +82,7 @@ Al igual que las charlas relámpago, los pósters proporcionan una oportunidad p
 
 **Inicio recepción de trabajos**: 2 de mayo de 2023
 
-**Fecha límite para la recepción de propuestas**: 16 de junio de 2023
+**Fecha límite para la recepción de propuestas**: ~31 de mayo~ 16 de junio de 2023
 
 **Notificación resultados evaluación**: principios de agosto 2023
 
