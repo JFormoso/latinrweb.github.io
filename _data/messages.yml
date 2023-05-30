@@ -138,17 +138,17 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-   - {permalink: "/cronograma/", text: "Cronograma"}
+  # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
-  bottomNavigationLinks:
+  bottomLinks:
    - {permalink: "http://bit.ly/latinr_slack", text: "Únete en Slack"}  
   # - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
    
-  rightNavigationButtons:
+  rightButtons:
    - {permalink: "http://bit.ly/latinr_slack", text: "Únete en Slack"}  
   # - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
    
@@ -244,7 +244,7 @@ pt:
   # Navigation
   navigationLinks:
    - {permalink: "/pt", text: "Início" }
-   - {permalink: "/programacao/", text: "Programação"}
+  # - {permalink: "/programacao/", text: "Programação"}
   # - {permalink: "/palestrantes/", text: "Palestrantes"}
    - {permalink: "/pt/equipe/", text: "Equipe"}
   # - {permalink: "/pt/logistica/", text: "Logística"}
