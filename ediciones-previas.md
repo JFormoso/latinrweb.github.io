@@ -9,6 +9,9 @@ lang: es
 
 Las presentaciones y pósters de ediciones anteriores se encuentran en los siguientes repositorios:
 
+* [Latinr2022](https://github.com/LatinR/presentaciones-LatinR2022)
+
+  En línea, octubre de 2022. Chairs: Natalia da Silva, Riva Quiroga, Yanina Bellini Saibene.
 
 * [Latinr2021](https://github.com/LatinR/presentaciones-LatinR2021)
 

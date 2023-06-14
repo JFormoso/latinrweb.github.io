@@ -9,6 +9,10 @@ lang: pt
 
 As apresentações e pôsters das edições anteriores da conferência podem ser encontradas nos seguintes repositórios: 
 
+* [Latinr2022](https://github.com/LatinR/presentaciones-LatinR2022)
+
+  Online, outubro de 2022. Presidentes: Natalia da Silva, Riva Quiroga, Yanina Bellini Saibene.
+
 * [Latinr2021](https://github.com/LatinR/presentaciones-LatinR2021)
 
   Online, novembro de 2021. Presidentes: Natalia da Silva, Riva Quiroga, Yanina Bellini Saibene.
