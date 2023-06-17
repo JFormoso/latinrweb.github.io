@@ -55,7 +55,7 @@ en:
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
    - {permalink: "http://bit.ly/latinr_slack", text: "Join us on Slack"}
   heroButtons:
-   - {permalink: "https://latin-r.com/blog/submissions-2023", text: "Call for Papers: submit until June 16!"}
+   - {permalink: "https://latin-r.com/blog/submissions-2023", text: "Call for Papers: submit until June 30!"}
    #- {permalink: "/schedule", text: "Schedule"}
    #- {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Register here!"}
@@ -153,7 +153,7 @@ es:
   # - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
    
   heroButtons:
-   - {permalink: "https://latin-r.com/blog/presentacion-trabajos-2023", text: "Llamado a presentar trabajos: ¡hasta el 16 de junio!"}
+   - {permalink: "https://latin-r.com/blog/presentacion-trabajos-2023", text: "Llamado a presentar trabajos: ¡hasta el 30 de junio!"}
    #- {permalink: "/cronograma", text: "Cronograma"}
    #- {permalink: "https://www.youtube.com/LatinR", text: "Streaming a YouTube"}
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Registrate acá!"}
@@ -260,7 +260,7 @@ pt:
   # - {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Inscreva-se!"}
 
   heroButtons:
-   - {permalink: "https://latin-r.com/blog/submissao-de-trabalhos-2023", text: "Chamada de trabalhos: até 16 de junho!"}
+   - {permalink: "https://latin-r.com/blog/submissao-de-trabalhos-2023", text: "Chamada de trabalhos: até 30 de junho!"}
    #- {permalink: "/programacao", text: "Programação"}
    #- {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
    #- {permalink: "https://www.eventbrite.cl/e/latinr-2022-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-431621390197?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb", text: "Inscreva-se!"}
