@@ -92,6 +92,6 @@ Assim como os palestras relâmpago, os pôsteres oferecem a oportunidade de apre
 
 **Início do recebimento das propostas**: 2 de maio de 2023
 
-**Prazo final para recebimento de propostas**: ~31 de maio de 2023~ 16 de junio
+**Prazo final para recebimento de propostas**: ~31 de maio de 2023~ ~~16 de junio~~ 30 de junho de 2023
 
 **Envio do resultado**: começo de agosto
